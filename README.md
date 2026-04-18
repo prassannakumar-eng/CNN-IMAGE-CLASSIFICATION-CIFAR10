@@ -27,53 +27,7 @@ This task has wide applications in real-world scenarios such as facial recogniti
 Overall, this task provides a strong understanding of deep learning concepts and demonstrates how neural networks can be used for image classification. It also highlights the importance of data preprocessing, model architecture, and evaluation in building accurate models.
 
 OUTPUT:
-Downloading data from https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz
-170498071/170498071 ━━━━━━━━━━━━━━━━━━━━ 4s 0us/step
 
-/usr/local/lib/python3.12/dist-packages/keras/src/layers/convolutional/base_conv.py:113: UserWarning: Do not pass an `input_shape`/`input_dim` argument to a layer. When using Sequential models, prefer using an `Input(shape)` object as the first layer in the model instead.
-
-  super().__init__(activity_regularizer=activity_regularizer, **kwargs)
-  
-Epoch 1/10
-
-1563/1563 ━━━━━━━━━━━━━━━━━━━━ 98s 61ms/step - accuracy: 0.4305 - loss: 1.5617 - val_accuracy: 0.5502 - val_loss: 1.2737
-
-Epoch 2/10
-
-1563/1563 ━━━━━━━━━━━━━━━━━━━━ 124s 50ms/step - accuracy: 0.5782 - loss: 1.1977 - val_accuracy: 0.5980 - val_loss: 1.1251
-
-Epoch 3/10
-
-1563/1563 ━━━━━━━━━━━━━━━━━━━━ 78s 47ms/step - accuracy: 0.6306 - loss: 1.0497 - val_accuracy: 0.6367 - val_loss: 1.0368
-
-Epoch 4/10
-
-1563/1563 ━━━━━━━━━━━━━━━━━━━━ 73s 47ms/step - accuracy: 0.6642 - loss: 0.9588 - val_accuracy: 0.6560 - val_loss: 0.9802
-
-Epoch 5/10
-
-1563/1563 ━━━━━━━━━━━━━━━━━━━━ 74s 48ms/step - accuracy: 0.6884 - loss: 0.8880 - val_accuracy: 0.6678 - val_loss: 0.9597
-
-Epoch 6/10
-
-1563/1563 ━━━━━━━━━━━━━━━━━━━━ 74s 48ms/step - accuracy: 0.7081 - loss: 0.8306 - val_accuracy: 0.6874 - val_loss: 0.9166
-
-Epoch 7/10
-
-1563/1563 ━━━━━━━━━━━━━━━━━━━━ 75s 48ms/step - accuracy: 0.7250 - loss: 0.7832 - val_accuracy: 0.6963 - val_loss: 0.8787
-
-Epoch 8/10
-
-1563/1563 ━━━━━━━━━━━━━━━━━━━━ 76s 49ms/step - accuracy: 0.7395 - loss: 0.7416 - val_accuracy: 0.6971 - val_loss: 0.8816
-
-Epoch 9/10
-
-1563/1563 ━━━━━━━━━━━━━━━━━━━━ 74s 47ms/step - accuracy: 0.7503 - loss: 0.7073 - val_accuracy: 0.6907 - val_loss: 0.8922
-
-Epoch 10/10
-
-1563/1563 ━━━━━━━━━━━━━━━━━━━━ 74s 47ms/step - accuracy: 0.7648 - loss: 0.6642 - val_accuracy: 0.7043 - val_loss: 0.8787
-
-313/313 ━━━━━━━━━━━━━━━━━━━━ 4s 14ms/step - accuracy: 0.7043 - loss: 0.8787
+<img width="576" height="432" alt="Image" src="https://github.com/user-attachments/assets/f8dcb676-194f-4346-8c73-899fe60ef17d" />
 
 Test Accuracy: 0.7042999863624573
